@@ -1,6 +1,6 @@
 # PROMPT-ENGINEERING- 1.	Comprehensive Report on the Fundamentals of Generative AI and Large Language Models (LLMs)
-# Name: Ramya R
-# Reg No: 212223230169
+# Name: Dhayananth.P.S
+# Reg No: 212223040039
 ---
 
 ## Aim
